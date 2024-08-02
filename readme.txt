@@ -14,7 +14,7 @@ The Student Management System is a robust application developed using Spring Boo
 - **Thymeleaf**: Template engine for rendering views.
 - **Spring Security**: Handles authentication and authorization.
 - **Hibernate/JPA**: ORM for database operations.
-- **MySQL**: Database for storing persistent data.
+- **PostgreSQL**: Database for storing persistent data.
 - **Maven**: Dependency management and build tool.
 
 ## Getting Started
@@ -58,6 +58,6 @@ Contributions are welcome! Please read the contributing guidelines before submit
 For any inquiries or feedback, please reach out to:
 
 **Name**: Abd Pathan  
-**Email**: [abd.pathan812@gmail.com](mailto:abd.pathan812@gmail.com)
+**Email**: abd.pathan812@gmail.com
 
 Feel free to customize this template to better fit the specifics of your project, such as adding more details about the features, instructions, or other relevant information.
